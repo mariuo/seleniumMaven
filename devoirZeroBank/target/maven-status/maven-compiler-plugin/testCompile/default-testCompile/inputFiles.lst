@@ -1,0 +1,9 @@
+/home/mario/workspace-temp/matrixCollege/outil_de_test_automatises/devoirZeroBank/src/test/java/zerobank/tests/LoginPageShouldHaveCorrectTitleWhenInvalidData.java
+/home/mario/workspace-temp/matrixCollege/outil_de_test_automatises/devoirZeroBank/src/test/java/zerobank/pages/LoginPage.java
+/home/mario/workspace-temp/matrixCollege/outil_de_test_automatises/devoirZeroBank/src/test/java/zerobank/pages/OnlineBankPage.java
+/home/mario/workspace-temp/matrixCollege/outil_de_test_automatises/devoirZeroBank/src/test/java/zerobank/pages/Dashboard.java
+/home/mario/workspace-temp/matrixCollege/outil_de_test_automatises/devoirZeroBank/src/test/java/zerobank/tests/DoLoginShouldReturnErrorMsgWhenInvalidData.java
+/home/mario/workspace-temp/matrixCollege/outil_de_test_automatises/devoirZeroBank/src/test/java/zerobank/tests/OnlineBankShouldHaveTitlePageCorrect.java
+/home/mario/workspace-temp/matrixCollege/outil_de_test_automatises/devoirZeroBank/src/test/java/zerobank/tests/DoLoginShouldLoginWhenValidData.java
+/home/mario/workspace-temp/matrixCollege/outil_de_test_automatises/devoirZeroBank/src/test/java/zerobank/pages/HomePage.java
+/home/mario/workspace-temp/matrixCollege/outil_de_test_automatises/devoirZeroBank/src/test/java/zerobank/tests/OnlineBankShouldHaveGroupOfElements.java

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/home/mario/workspace-temp/matrixCollege/outil_de_test_automatises/devoirZeroBank/src/test/java/zerobank/tests">
+        <classes>
+            <class name="zerobank.tests.DoLoginShouldLoginWhenValidData"/>
+            <class name="zerobank.tests.DoLoginShouldReturnErrorMsgWhenInvalidData"/>
+            <class name="zerobank.tests.LoginPageShouldHaveCorrectTitleWhenInvalidData"/>
+            <class name="zerobank.tests.OnlineBankShouldHaveGroupOfElements"/>
+            <class name="zerobank.tests.OnlineBankShouldHaveTitlePageCorrect"/>
+        </classes>
+    </test>
+</suite>

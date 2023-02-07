@@ -1,0 +1,9 @@
+zerobank/pages/LoginPage.class
+zerobank/pages/OnlineBankPage.class
+zerobank/tests/LoginPageShouldHaveCorrectTitleWhenInvalidData.class
+zerobank/tests/OnlineBankShouldHaveTitlePageCorrect.class
+zerobank/tests/OnlineBankShouldHaveGroupOfElements.class
+zerobank/tests/DoLoginShouldReturnErrorMsgWhenInvalidData.class
+zerobank/pages/Dashboard.class
+zerobank/pages/HomePage.class
+zerobank/tests/DoLoginShouldLoginWhenValidData.class
